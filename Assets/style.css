@@ -9,17 +9,24 @@ button {
     background-color: #5f99be;
 }
 
-#section-3 {
+#section-2 {
     margin: auto;
-    text-align: center;
 }
 
-.bg-gradient {
-    background: linear-gradient(#96cee9, #5da1ce);
+#section-3 {
+    margin: auto;
 }
 
 .blue {
     background-color: #4892c4;
+}
+
+.grey {
+    background-color: #364049;
+}
+
+.bg-gradient {
+    background: linear-gradient(#96cee9, #5da1ce);
 }
 
 .text-white ul {
@@ -31,4 +38,12 @@ button {
 .buttons {
     flex-direction: row;
     justify-content: space-around;
+}
+
+.feature {
+    background-color: white;
+}
+
+.feature:hover {
+    box-shadow: 0px 0px 30px #dddddd;
 }
