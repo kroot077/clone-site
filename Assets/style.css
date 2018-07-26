@@ -2,11 +2,21 @@ html {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+#section-1 {
+    height: 100vh;
+}
+
+#jobs-title {
+    font-size: 65px;
+}
+
 #section-2 {
+    height: 100vh;
     margin: auto;
 }
 
 #section-3 {
+    height: 100vh;
     margin: auto;
 }
 
@@ -41,14 +51,24 @@ html {
     border: 0px;
 }
 
-.social {
-
-}
-
 .feature {
     background-color: white;
+    margin: auto;
+    padding: 30px;
 }
 
 .feature:hover {
     box-shadow: 0px 0px 30px #dddddd;
+}
+
+.icon {
+    max-width: 75px;
+}
+
+.paragraph {
+    line-height: 30px;
+}
+
+.social {
+    border: 0px;
 }
