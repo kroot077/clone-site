@@ -6,3 +6,7 @@
     background-color: #4892c4;
 }
 
+.text-white ul {
+    justify-content: flex-end;
+    align-items: center;
+}
