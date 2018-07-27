@@ -52,7 +52,7 @@ html {
 .feature {
     background-color: white;
     margin: auto;
-    padding: 30px;
+    padding: 100px;
 }
 
 .feature:hover {
@@ -61,6 +61,10 @@ html {
 
 .icon {
     max-width: 75px;
+}
+
+.logo {
+    max-width: 200px;
 }
 
 .paragraph {
